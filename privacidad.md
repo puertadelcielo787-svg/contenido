@@ -1,95 +1,151 @@
-# Política de Privacidad
+# Ficha de App Store — Puerta del Cielo Radio
 
-**Puerta del Cielo Radio**
-Centro Cristiano Puerta del Cielo, Inc.
-Última actualización: 13 de agosto de 2026
+Todo listo para copiar y pegar en App Store Connect. Los límites de caracteres
+son los de Apple; el conteo actual va entre paréntesis.
 
-## Resumen
+---
 
-Esta aplicación no recoge información personal. No pide registro, no crea
-cuentas y no rastrea a sus usuarios.
+## Nombre de la app (máx. 30)
 
-## Información que no recogemos
+```
+Puerta del Cielo Radio
+```
+(22)
 
-No recogemos ni almacenamos:
+## Subtítulo (máx. 30)
 
-- Nombre, correo electrónico, teléfono ni dirección
-- Ubicación
-- Contactos, fotos ni archivos del teléfono
-- Identificadores publicitarios
-- Historial de navegación
+```
+Tu Sonido del Cielo · 94.3 FM
+```
+(29)
 
-La aplicación no muestra publicidad y no vende ni comparte información con
-terceros con fines comerciales.
+## Palabras clave (máx. 100, separadas por comas, sin espacios después de la coma)
 
-## Información que se queda en tu teléfono
+```
+radio cristiana,predicacion,alabanza,iglesia,sermones,devocional,hudson,florida,94.3,emisora
+```
+(91)
 
-Estos datos se guardan únicamente en tu dispositivo y nunca se envían a
-nosotros ni a nadie más:
+No repitas en las palabras clave lo que ya está en el nombre o el subtítulo —
+Apple ya las indexa desde ahí.
 
-- Los sermones que marcas como guardados
-- Si activaste o desactivaste los avisos de transmisión
-- La última copia del contenido descargado (para que la aplicación funcione sin
-  conexión)
+## Categoría
 
-Si borras la aplicación, esta información se borra con ella.
+- Principal: **Referencia**
+- Secundaria: **Música**
 
-## Servicios de terceros
+Nota: Apple no tiene categoría "Religión" en iOS. Referencia es donde
+mayormente caen las apps de iglesias; Música ayuda a que aparezca en búsquedas
+de radio.
 
-Para funcionar, la aplicación se conecta a estos servicios. Cada uno tiene su
-propia política de privacidad:
+## Clasificación por edad
 
-**Transmisión de radio.** El audio de 94.3 FM se recibe desde nuestro proveedor
-de transmisión. Como en cualquier emisora en línea, el proveedor registra
-conexiones (dirección IP, duración) para contar oyentes. No recibimos datos
-individuales, solo totales.
+4+. Sin contenido restringido, sin publicidad, sin compras dentro de la app.
 
-**YouTube.** La lista de sermones y los videos vienen del canal de YouTube de la
-iglesia, a través de la API de datos de YouTube y del reproductor de YouTube.
-Cuando abres o reproduces un sermón aplican los términos y la política de
-privacidad de Google. Consulta
-https://policies.google.com/privacy
+## URL de la política de privacidad
 
-**Contenido de la iglesia.** Los eventos, los horarios y el devocional se
-descargan de un archivo público que la iglesia mantiene. Es una descarga de
-lectura; no se envía nada tuyo.
+```
+https://github.com/puertadelcielo787-svg/contenido/blob/main/privacidad.md
+```
 
-## Peticiones de oración
+## URL de soporte
 
-Cuando envías una petición de oración, la aplicación abre tu propia aplicación
-de correo con el mensaje ya escrito. Tú decides si lo envías. La petición llega
-a `ccpdcflorida@mail.com` y solo la lee el equipo pastoral. Si marcas la opción
-de enviar de forma anónima, el mensaje no incluye tu nombre.
+Si la iglesia tiene web, esa. Si no, sirve la misma dirección de arriba, o el
+Linktree:
 
-La aplicación no guarda copia de tus peticiones.
+```
+https://linktr.ee/PuertadelCieloFL
+```
 
-## Notificaciones
+## Copyright
 
-Si activas los avisos de transmisión, las notificaciones se programan dentro de
-tu propio teléfono según los horarios de los servicios. No usamos un servidor
-para enviarlas y no sabemos quién las tiene activadas. Puedes desactivarlas en
-cualquier momento desde la pestaña Más o desde los Ajustes de iOS.
+```
+© 2026 Centro Cristiano Puerta del Cielo, Inc.
+```
 
-## Uso de la aplicación
+---
 
-Apple nos entrega estadísticas generales y anónimas de descargas y uso a través
-de App Store Connect. Son totales, no información sobre personas.
+## Descripción (máx. 4000)
 
-## Niños
+```
+Radio Puerta transmite 24 horas al día desde Hudson, Florida. Música cristiana,
+predicación y la palabra de Dios en tu idioma, dondequiera que estés.
 
-La aplicación es apta para todas las edades y no recoge información de nadie,
-incluidos los menores de 13 años.
+ESCUCHA EN VIVO
+Un toque y estás al aire. La transmisión sigue sonando con la pantalla apagada,
+mientras usas otras aplicaciones o conectado al carro por CarPlay.
 
-## Cambios
+TEMPORIZADOR
+Si te gusta dormir con la radio puesta, escoge de 15 a 90 minutos. El volumen
+baja poco a poco y la aplicación se apaga sola.
 
-Si esta política cambia, publicaremos la versión nueva en esta misma dirección y
-actualizaremos la fecha de arriba.
+SERMONES
+Todas las predicaciones del canal de YouTube de la iglesia, ordenadas y listas
+para ver. Guarda las que quieras volver a escuchar.
 
-## Contacto
+DEVOCIONAL
+Una palabra para hoy, con su versículo y una reflexión corta.
 
-Si tienes preguntas sobre esta política, escríbenos o llámanos:
+NUESTRA IGLESIA
+Horarios de los servicios, dirección con indicaciones para llegar en un toque, y
+los teléfonos de la iglesia.
+
+PETICIÓN DE ORACIÓN
+Escríbenos y el equipo pastoral ora contigo. Puedes enviarla de forma anónima.
+
+AVISOS
+Activa las notificaciones y te avisamos cuando entramos en vivo con el servicio
+dominical o el estudio bíblico.
+
+Sin cuentas. Sin registro. Sin publicidad.
 
 Centro Cristiano Puerta del Cielo, Inc.
 8159 State Road 52, Hudson, FL 34667
-ccpdcflorida@mail.com
-352-345-6343 · 787-619-6188
+Domingos 11:00 AM · Martes 7:00 PM
+```
+
+## Novedades de esta versión (primera versión)
+
+```
+Primera versión de la aplicación oficial de Radio Puerta 94.3 FM.
+```
+
+## Texto promocional (máx. 170, se puede cambiar sin enviar una versión nueva)
+
+```
+Transmitimos 24 horas desde Hudson, Florida. Música cristiana, predicación y la
+palabra de Dios contigo a donde vayas.
+```
+(133)
+
+---
+
+## Capturas de pantalla
+
+Apple pide, como mínimo, iPhone 6.9" (1320×2868 o 1290×2796). Se pueden subir
+hasta 10; con 4 o 5 basta y sobra.
+
+Orden recomendado, porque las dos primeras son las únicas que la mayoría de la
+gente ve:
+
+1. **Radio reproduciendo** — el logo grande y el botón de play. Es la app.
+2. **Sermones** — la lista de predicaciones.
+3. **En vivo** — las 24 horas y los servicios en directo.
+4. **Iglesia** — la foto del templo y los horarios.
+5. **Temporizador** — abierto, con los minutos.
+
+Consejo: sube las capturas tal como salen del simulador, sin marcos ni textos
+encima. Se ven más honestas y Apple no las rechaza por eso.
+
+---
+
+## Antes de enviar, revisa
+
+- [x] La llave de YouTube está puesta y la lista de sermones carga videos reales
+- [x] El icono de 1024×1024 está en el proyecto
+- [x] Probado en un iPhone real: audio en background y pantalla bloqueada
+- [ ] `privacidad.md` está subido con el correo corregido (@gmail.com) y la URL abre
+- [ ] En App Store Connect, "Privacidad de la app": marcar **No se recopilan
+      datos** (es lo que corresponde — la app no recoge nada)
+- [ ] Idioma principal: Español (México) o Español (España); da igual cuál, pero
+      escoge uno y deja la ficha completa en ese
