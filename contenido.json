@@ -10,8 +10,8 @@
   "envivo": {
     "nota": "Música y predicación, todos los días.",
     "servicios": [
-      { "dia": "Domingo", "nombre": "Servicio dominical", "hora": "11:00 AM", "detalle": "Desde el templo en Hudson" },
-      { "dia": "Martes", "nombre": "Estudio bíblico", "hora": "7:00 PM", "detalle": "Desde el templo en Hudson" }
+      { "dia": "Domingo", "nombre": "Servicio ", "hora": "11:00 AM", "detalle": "Desde el templo en Hudson" },
+      { "dia": "Martes", "nombre": "Oracion y Estudio bíblico", "hora": "7:00 PM", "detalle": "Desde el templo en Hudson" }
     ]
   },
 
