@@ -1,7 +1,7 @@
 {
   "eventos": [
-    { "fecha": "2026-08-16", "nombre": "Servicio dominical", "detalle": "11:00 AM · Templo" },
-    { "fecha": "2026-08-18", "nombre": "Estudio bíblico", "detalle": "7:00 PM · Templo" },
+    { "fecha": "2026-08-16", "nombre": "Servicio ", "detalle": "11:00 AM · Templo" },
+    { "fecha": "2026-08-18", "nombre": "Oracion y Estudio bíblico", "detalle": "7:00 PM · Templo" },
     { "fecha": "2026-08-22", "nombre": "Evangelismo y acción social", "detalle": "10:00 AM · Punto de encuentro en el templo" },
     { "fecha": "2026-08-23", "nombre": "Servicio dominical", "detalle": "11:00 AM · Templo" },
     { "fecha": "2026-08-30", "nombre": "Servicio dominical", "detalle": "11:00 AM · Templo" }
