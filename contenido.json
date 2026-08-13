@@ -2,7 +2,7 @@
   "eventos": [
     { "fecha": "2026-08-16", "nombre": "Servicio ", "detalle": "11:00 AM · Templo" },
     { "fecha": "2026-08-18", "nombre": "Servicio Especial Como Viento Recio Obispo Jefte Pereira", "detalles": "7:00 PM · Templo" },
-    { "fecha": "2026-08-22", "nombre": "Evangelismo y Acción Social", "Hay Esperanza Para Ti": "4:00 pm · Punto de encuentro en el templo" },
+    { "fecha": "2026-08-22", "nombre": "Evangelismo y Acción Social Hay Esperanza Para Ti", "detalles": "4:00 pm · Punto de encuentro en el templo" },
     { "fecha": "2026-08-23", "nombre": "Servicio ", "detalle": "11:00 AM · Templo" },
     { "fecha": "2026-08-30", "nombre": "Servicio ", "detalle": "11:00 AM · Templo" }
   ],
