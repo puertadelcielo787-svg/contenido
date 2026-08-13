@@ -1,0 +1,43 @@
+{
+  "eventos": [
+    { "fecha": "2026-08-16", "nombre": "Servicio dominical", "detalle": "11:00 AM · Templo" },
+    { "fecha": "2026-08-18", "nombre": "Estudio bíblico", "detalle": "7:00 PM · Templo" },
+    { "fecha": "2026-08-22", "nombre": "Evangelismo y acción social", "detalle": "10:00 AM · Punto de encuentro en el templo" },
+    { "fecha": "2026-08-23", "nombre": "Servicio dominical", "detalle": "11:00 AM · Templo" },
+    { "fecha": "2026-08-30", "nombre": "Servicio dominical", "detalle": "11:00 AM · Templo" }
+  ],
+
+  "programacion": {
+    "default": [
+      { "hora": "6:00 AM", "nombre": "Alabanza matutina" },
+      { "hora": "9:00 AM", "nombre": "Música cristiana" },
+      { "hora": "12:00 PM", "nombre": "Reflexión del mediodía" },
+      { "hora": "3:00 PM", "nombre": "Música cristiana" },
+      { "hora": "7:00 PM", "nombre": "Predicación" },
+      { "hora": "9:00 PM", "nombre": "Alabanza nocturna" }
+    ],
+    "dias": {
+      "domingo": [
+        { "hora": "6:00 AM", "nombre": "Alabanza matutina" },
+        { "hora": "11:00 AM", "nombre": "Servicio dominical en vivo" },
+        { "hora": "1:00 PM", "nombre": "Música cristiana" },
+        { "hora": "7:00 PM", "nombre": "Predicación" },
+        { "hora": "9:00 PM", "nombre": "Alabanza nocturna" }
+      ],
+      "martes": [
+        { "hora": "6:00 AM", "nombre": "Alabanza matutina" },
+        { "hora": "9:00 AM", "nombre": "Música cristiana" },
+        { "hora": "7:00 PM", "nombre": "Estudio bíblico en vivo" },
+        { "hora": "9:00 PM", "nombre": "Alabanza nocturna" }
+      ]
+    }
+  },
+
+  "devocional": {
+    "fecha": "2026-08-13",
+    "titulo": "Confía en el Señor de todo corazón",
+    "versiculo": "Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas.",
+    "cita": "Proverbios 3:5-6",
+    "reflexion": "Escribe aquí la reflexión del día."
+  }
+}
