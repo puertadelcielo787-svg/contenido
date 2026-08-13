@@ -7,30 +7,12 @@
     { "fecha": "2026-08-30", "nombre": "Servicio dominical", "detalle": "11:00 AM · Templo" }
   ],
 
-  "programacion": {
-    "default": [
-      { "hora": "6:00 AM", "nombre": "Alabanza matutina" },
-      { "hora": "9:00 AM", "nombre": "Música cristiana" },
-      { "hora": "12:00 PM", "nombre": "Reflexión del mediodía" },
-      { "hora": "3:00 PM", "nombre": "Música cristiana" },
-      { "hora": "7:00 PM", "nombre": "Predicación" },
-      { "hora": "9:00 PM", "nombre": "Alabanza nocturna" }
-    ],
-    "dias": {
-      "domingo": [
-        { "hora": "6:00 AM", "nombre": "Alabanza matutina" },
-        { "hora": "11:00 AM", "nombre": "Servicio dominical en vivo" },
-        { "hora": "1:00 PM", "nombre": "Música cristiana" },
-        { "hora": "7:00 PM", "nombre": "Predicación" },
-        { "hora": "9:00 PM", "nombre": "Alabanza nocturna" }
-      ],
-      "martes": [
-        { "hora": "6:00 AM", "nombre": "Alabanza matutina" },
-        { "hora": "9:00 AM", "nombre": "Música cristiana" },
-        { "hora": "7:00 PM", "nombre": "Estudio bíblico en vivo" },
-        { "hora": "9:00 PM", "nombre": "Alabanza nocturna" }
-      ]
-    }
+  "envivo": {
+    "nota": "Música y predicación, todos los días.",
+    "servicios": [
+      { "dia": "Domingo", "nombre": "Servicio dominical", "hora": "11:00 AM", "detalle": "Desde el templo en Hudson" },
+      { "dia": "Martes", "nombre": "Estudio bíblico", "hora": "7:00 PM", "detalle": "Desde el templo en Hudson" }
+    ]
   },
 
   "devocional": {
