@@ -4,17 +4,12 @@
   "eventos": [
     { "fecha": "2026-08-16", "nombre": "Servicio dominical", "detalle": "11:00 AM · Templo",
       "hora": "11:00 AM", "duracion": 120,
-      "tema": " — tema del mensaje",
-      "versiculo": " — cita, ej. Juan 10:9",
-      "predicador": "Edgaldo Fernamdez — quién predica",
+      "predicador": "Pastor Edgaldo Fernández",
       "lugar": "Templo · 8159 State Rd 52, Hudson",
       "descripcion": "Servicio principal con alabanza, ofrenda y predicación. En vivo por la radio 94.3 FM." },
 
     { "fecha": "2026-08-18", "nombre": "Estudio bíblico", "detalle": "7:00 PM · Templo",
       "hora": "7:00 PM", "duracion": 90,
-      "tema": "— tema del estudio",
-      "versiculo": " — cita, ej. Juan 10:9",
-      "predicador": "— quién predica",
       "lugar": "Templo · 8159 State Rd 52, Hudson" },
 
     { "fecha": "2026-08-22", "nombre": "Evangelismo y acción social", "detalle": "10:00 AM · Punto de encuentro en el templo",
@@ -24,37 +19,22 @@
 
     { "fecha": "2026-08-23", "nombre": "Servicio dominical", "detalle": "11:00 AM · Templo",
       "hora": "11:00 AM", "duracion": 120,
-      "tema": " — tema del mensaje",
-      "versiculo": "— cita, ej. Juan 10:9",
-      "predicador": "— quién predica",
       "lugar": "Templo · 8159 State Rd 52, Hudson" },
 
     { "fecha": "2026-08-25", "nombre": "Estudio bíblico", "detalle": "7:00 PM · Templo",
       "hora": "7:00 PM", "duracion": 90,
-      "tema": " — tema del estudio",
-      "versiculo": " — cita, ej. Juan 10:9",
-      "predicador": " — quién predica",
       "lugar": "Templo · 8159 State Rd 52, Hudson" },
 
     { "fecha": "2026-08-30", "nombre": "Servicio dominical", "detalle": "11:00 AM · Templo",
       "hora": "11:00 AM", "duracion": 120,
-      "tema": " — tema del mensaje",
-      "versiculo": " — cita, ej. Juan 10:9",
-      "predicador": "— quién predica",
       "lugar": "Templo · 8159 State Rd 52, Hudson" },
 
     { "fecha": "2026-09-01", "nombre": "Estudio bíblico", "detalle": "7:00 PM · Templo",
       "hora": "7:00 PM", "duracion": 90,
-      "tema": "— tema del estudio",
-      "versiculo": " — cita, ej. Juan 10:9",
-      "predicador": " — quién predica",
       "lugar": "Templo · 8159 State Rd 52, Hudson" },
 
     { "fecha": "2026-09-06", "nombre": "Servicio dominical", "detalle": "11:00 AM · Templo",
       "hora": "11:00 AM", "duracion": 120,
-      "tema": " — tema del mensaje",
-      "versiculo": " — cita, ej. Juan 10:9",
-      "predicador": " — quién predica",
       "lugar": "Templo · 8159 State Rd 52, Hudson" }
   ],
 
@@ -71,6 +51,6 @@
     "titulo": "Confía en el Señor de todo corazón",
     "versiculo": "Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas.",
     "cita": "Proverbios 3:5-6",
-    "reflexion": "Escribe aquí la reflexión del día."
+    "reflexion": "La confianza no es entender el camino, es caminarlo sabiendo quién lo enderezó primero. Hoy entrégale al Señor esa decisión que has estado midiendo con tu propia prudencia."
   }
 }
