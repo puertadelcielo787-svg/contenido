@@ -1,22 +1,73 @@
 {
+  "actualizado": "2026-08-14",
+
   "eventos": [
-    { "fecha": "2026-08-16", "nombre": "Servicio ", "detalle": "11:00 AM · Templo" },
-    { "fecha": "2026-08-18", "nombre": "Servicio Especial Como Viento Recio Obispo Jefte Pereira", "detalles": "7:00 PM · Templo" },
-    { "fecha": "2026-08-22", "nombre": "Evangelismo y Acción Social Hay Esperanza Para Ti", "detalles": "4:00 pm · Punto de encuentro en el templo" },
-    { "fecha": "2026-08-23", "nombre": "Servicio ", "detalle": "11:00 AM · Templo" },
-    { "fecha": "2026-08-30", "nombre": "Servicio ", "detalle": "11:00 AM · Templo" }
+    { "fecha": "2026-08-16", "nombre": "Servicio dominical", "detalle": "11:00 AM · Templo",
+      "hora": "11:00 AM", "duracion": 120,
+      "tema": "REEMPLAZAR — tema del mensaje",
+      "versiculo": "REEMPLAZAR — cita, ej. Juan 10:9",
+      "predicador": "Edgaldo Fernamdez — quién predica",
+      "lugar": "Templo · 8159 State Rd 52, Hudson",
+      "descripcion": "Servicio principal con alabanza, ofrenda y predicación. En vivo por la radio 94.3 FM." },
+
+    { "fecha": "2026-08-18", "nombre": "Estudio bíblico", "detalle": "7:00 PM · Templo",
+      "hora": "7:00 PM", "duracion": 90,
+      "tema": "REEMPLAZAR — tema del estudio",
+      "versiculo": "REEMPLAZAR — cita, ej. Juan 10:9",
+      "predicador": "REEMPLAZAR — quién predica",
+      "lugar": "Templo · 8159 State Rd 52, Hudson" },
+
+    { "fecha": "2026-08-22", "nombre": "Evangelismo y acción social", "detalle": "10:00 AM · Punto de encuentro en el templo",
+      "hora": "10:00 AM", "duracion": 180,
+      "lugar": "Punto de encuentro en el templo",
+      "descripcion": "Pendiente a las redes sociales para el lugar de salida." },
+
+    { "fecha": "2026-08-23", "nombre": "Servicio dominical", "detalle": "11:00 AM · Templo",
+      "hora": "11:00 AM", "duracion": 120,
+      "tema": "REEMPLAZAR — tema del mensaje",
+      "versiculo": "REEMPLAZAR — cita, ej. Juan 10:9",
+      "predicador": "REEMPLAZAR — quién predica",
+      "lugar": "Templo · 8159 State Rd 52, Hudson" },
+
+    { "fecha": "2026-08-25", "nombre": "Estudio bíblico", "detalle": "7:00 PM · Templo",
+      "hora": "7:00 PM", "duracion": 90,
+      "tema": "REEMPLAZAR — tema del estudio",
+      "versiculo": "REEMPLAZAR — cita, ej. Juan 10:9",
+      "predicador": "REEMPLAZAR — quién predica",
+      "lugar": "Templo · 8159 State Rd 52, Hudson" },
+
+    { "fecha": "2026-08-30", "nombre": "Servicio dominical", "detalle": "11:00 AM · Templo",
+      "hora": "11:00 AM", "duracion": 120,
+      "tema": "REEMPLAZAR — tema del mensaje",
+      "versiculo": "REEMPLAZAR — cita, ej. Juan 10:9",
+      "predicador": "REEMPLAZAR — quién predica",
+      "lugar": "Templo · 8159 State Rd 52, Hudson" },
+
+    { "fecha": "2026-09-01", "nombre": "Estudio bíblico", "detalle": "7:00 PM · Templo",
+      "hora": "7:00 PM", "duracion": 90,
+      "tema": "REEMPLAZAR — tema del estudio",
+      "versiculo": "REEMPLAZAR — cita, ej. Juan 10:9",
+      "predicador": "REEMPLAZAR — quién predica",
+      "lugar": "Templo · 8159 State Rd 52, Hudson" },
+
+    { "fecha": "2026-09-06", "nombre": "Servicio dominical", "detalle": "11:00 AM · Templo",
+      "hora": "11:00 AM", "duracion": 120,
+      "tema": "REEMPLAZAR — tema del mensaje",
+      "versiculo": "REEMPLAZAR — cita, ej. Juan 10:9",
+      "predicador": "REEMPLAZAR — quién predica",
+      "lugar": "Templo · 8159 State Rd 52, Hudson" }
   ],
 
   "envivo": {
     "nota": "Música y predicación, todos los días.",
     "servicios": [
-      { "dia": "Domingo", "nombre": "Servicio ", "hora": "11:00 AM", "detalle": "Desde el templo en Hudson" },
-      { "dia": "Martes", "nombre": "Oracion y Estudio bíblico", "hora": "7:00 PM", "detalle": "Desde el templo en Hudson" }
+      { "dia": "Domingo", "nombre": "Servicio dominical", "hora": "11:00 AM", "detalle": "Desde el templo en Hudson" },
+      { "dia": "Martes", "nombre": "Estudio bíblico", "hora": "7:00 PM", "detalle": "Desde el templo en Hudson" }
     ]
   },
 
   "devocional": {
-    "fecha": "2026-08-13",
+    "fecha": "2026-08-14",
     "titulo": "Confía en el Señor de todo corazón",
     "versiculo": "Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas.",
     "cita": "Proverbios 3:5-6",
