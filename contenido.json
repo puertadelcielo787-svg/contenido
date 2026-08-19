@@ -82,31 +82,31 @@
     {
       "nombre": "Gorra logo bordado",
       "precio": "$32.99",
-      "foto": "https://raw.githubusercontent.com/puertadelcielo787-svg/contenido/main/fotos/tienda-gorra.jpg",
+      "foto": "https://raw.githubusercontent.com/puertadelcielo787-svg/contenido/main/tienda-gorra.jpg",
       "enlace": "https://puertastore.creator-spring.com"
     },
     {
       "nombre": "Hoodie logo bordado",
       "precio": "$55.33",
-      "foto": "https://raw.githubusercontent.com/puertadelcielo787-svg/contenido/main/fotos/tienda-hoodie-negro.jpg",
+      "foto": "https://raw.githubusercontent.com/puertadelcielo787-svg/contenido/main/tienda-hoodie-negro.jpg",
       "enlace": "https://puertastore.creator-spring.com"
     },
     {
       "nombre": "Camiseta clásica",
       "precio": "$22.99",
-      "foto": "https://raw.githubusercontent.com/puertadelcielo787-svg/contenido/main/fotos/tienda-camiseta-negra.jpg",
+      "foto": "https://raw.githubusercontent.com/puertadelcielo787-svg/contenido/main/tienda-camiseta-negra.jpg",
       "enlace": "https://puertastore.creator-spring.com"
     },
     {
       "nombre": "Camiseta arena",
       "precio": "$24.00",
-      "foto": "https://raw.githubusercontent.com/puertadelcielo787-svg/contenido/main/fotos/tienda-camiseta-arena.jpg",
+      "foto": "https://raw.githubusercontent.com/puertadelcielo787-svg/contenido/main/tienda-camiseta-arena.jpg",
       "enlace": "https://puertastore.creator-spring.com"
     },
     {
       "nombre": "Hoodie clásico",
       "precio": "$40.99",
-      "foto": "https://raw.githubusercontent.com/puertadelcielo787-svg/contenido/main/fotos/tienda-hoodie-rojo.jpg",
+      "foto": "https://raw.githubusercontent.com/puertadelcielo787-svg/contenido/main/tienda-hoodie-rojo.jpg",
       "enlace": "https://puertastore.creator-spring.com"
     }
   ]
