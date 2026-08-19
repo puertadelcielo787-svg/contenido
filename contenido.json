@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-14",
+  "actualizado": "2026-08-19",
 
   "eventos": [
     { "fecha": "2026-08-16", "nombre": "Servicio dominical", "detalle": "11:00 AM · Templo",
@@ -52,5 +52,62 @@
     "versiculo": "Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas.",
     "cita": "Proverbios 3:5-6",
     "reflexion": "La confianza no es entender el camino, es caminarlo sabiendo quién lo enderezó primero. Hoy entrégale al Señor esa decisión que has estado midiendo con tu propia prudencia."
-  }
+  },
+
+"localidades": [
+    {
+      "ciudad": "Caguas, Puerto Rico",
+      "nombre": "Iglesia Cristiana Puerta del Cielo",
+      "pastores": "Pastores Jefte Pereira y Carmen Luz Rivera",
+      "direccion": "Carr km 4, PR-784, Caguas, Puerto Rico",
+      "correo": "jeftepereira@yahoo.com",
+      "principal": true
+    },
+    {
+      "ciudad": "Lancaster, PA",
+      "nombre": "Iglesia Puerta del Cielo 'Casa Gosen'",
+      "pastores": "Pastores Luis Deliz Jr y Maria Valentin",
+      "direccion": "820 Rohrerstown Rd, Lancaster, PA 17601",
+      "correo": "ipdcgosen@gmail.com"
+    },
+    {
+      "ciudad": "Verona, WI",
+      "nombre": "Iglesia Cristiana Puerta del Cielo",
+      "pastores": "Pastores Luis Pizarro y Nixida Gandia",
+      "direccion": "1200 E Verona Avenue, Verona, WI 53593",
+      "correo": "Ipdcmadisonwi@gmail.com"
+    }
+  ],
+  "productos": [
+    {
+      "nombre": "Gorra logo bordado",
+      "precio": "$32.99",
+      "foto": "https://raw.githubusercontent.com/puertadelcielo787-svg/contenido/main/fotos/tienda-gorra.jpg",
+      "enlace": "https://puertastore.creator-spring.com"
+    },
+    {
+      "nombre": "Hoodie logo bordado",
+      "precio": "$55.33",
+      "foto": "https://raw.githubusercontent.com/puertadelcielo787-svg/contenido/main/fotos/tienda-hoodie-negro.jpg",
+      "enlace": "https://puertastore.creator-spring.com"
+    },
+    {
+      "nombre": "Camiseta clásica",
+      "precio": "$22.99",
+      "foto": "https://raw.githubusercontent.com/puertadelcielo787-svg/contenido/main/fotos/tienda-camiseta-negra.jpg",
+      "enlace": "https://puertastore.creator-spring.com"
+    },
+    {
+      "nombre": "Camiseta arena",
+      "precio": "$24.00",
+      "foto": "https://raw.githubusercontent.com/puertadelcielo787-svg/contenido/main/fotos/tienda-camiseta-arena.jpg",
+      "enlace": "https://puertastore.creator-spring.com"
+    },
+    {
+      "nombre": "Hoodie clásico",
+      "precio": "$40.99",
+      "foto": "https://raw.githubusercontent.com/puertadelcielo787-svg/contenido/main/fotos/tienda-hoodie-rojo.jpg",
+      "enlace": "https://puertastore.creator-spring.com"
+    }
+  ]
 }
